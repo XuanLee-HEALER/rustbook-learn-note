@@ -1,0 +1,5 @@
+[book]
+authors = ["mouselee"]
+language = "en"
+src = "src"
+title = "rustbook-learn-note"
