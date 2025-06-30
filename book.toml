@@ -1,5 +1,9 @@
 [book]
 authors = ["mouselee"]
-language = "en"
+language = "zh"
 src = "src"
 title = "rustbook-learn-note"
+description = "我自己的Rustbook学习笔记"
+
+[output.html.playground]
+runnable = false
