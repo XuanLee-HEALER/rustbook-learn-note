@@ -62,7 +62,7 @@ Cargo是Rust的构建系统和包管理器，它能处理很多任务，例如�
 
 ### 使用Cargo创建一个项目
 
-`cargo new hello_cargo`会创建叫`hello_cargo`的项目，并且生成一个同名目录。Cargo生成了两个文件和一个目录：`Cargo.toml`文件和`src`目录和`main.rs`文件。同时会初始化了一个Git仓库，有`.gitignore`文件。如果在一个已存在的Git仓库中运行`cargo new`则不会创建git文件，但是可以强制指定创建`cargo new --vcs=git`
+`cargo new hello_cargo`会创建叫`hello_cargo`的项目，并且生成一个同名目录。Cargo生成了两个文件和一个目录：*Cargo.toml*文件和`src`目录和`main.rs`文件。同时会初始化了一个Git仓库，有`.gitignore`文件。如果在一个已存在的Git仓库中运行`cargo new`则不会创建git文件，但是可以强制指定创建`cargo new --vcs=git`
 
 ```toml
 [package]
@@ -79,7 +79,7 @@ Cargo的配置文件是TOML格式。`[package]`是一个章节标题，表示接
 
 在Rust中，包的代码被叫做**crates**。Cargo会生成一个`HelloWorld`程序。Cargo认为你的源文件在`src`目录。项目的顶层目录只放`README`文件，licence许可信息，配置文件和其它和代码有关的内容
 
-将一个非Cargo生成的项目转成Cargo管理的项目很简单，只要把源代码放到src目录中，然后创建一个`Cargo.toml`文件，使用`cargo init`可以自动创建此文件
+将一个非Cargo生成的项目转成Cargo管理的项目很简单，只要把源代码放到src目录中，然后创建一个*Cargo.toml*文件，使用`cargo init`可以自动创建此文件
 
 ### 构建并运行一个Cargo项目
 

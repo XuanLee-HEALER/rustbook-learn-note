@@ -3,7 +3,7 @@ authors = ["mouselee"]
 language = "zh"
 src = "src"
 title = "rustbook-learn-note"
-description = "我自己的Rustbook学习笔记"
+description = "我自己的Rustbook学习笔记,rust,programming"
 
 [output.html.playground]
 runnable = false
