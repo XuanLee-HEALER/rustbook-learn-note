@@ -16,6 +16,11 @@
 - [第十章 - 泛型类型、特质和生命周期](./chapter_10.md)
 - [第十一章 - 自动化测试](./chapter_11.md)
 - [第十二章 - I/O项目：一个命令行程序](./chapter_12.md)
+- [第十三章 - 函数式语言特性：迭代器和闭包](./chapter_13.md)
+- [第十四章 - Cargo和Crates.io](./chapter_14.md)
+- [第十五章 - 智能指针](./chapter_15.md)
+- [第十六章 - 无畏并发](./chapter_16.md)
+- [第十七章 - 异步编程基础：Async、Await、Futures和Streams](./chapter_17.md)
 
 # The Rustonomicon
 
