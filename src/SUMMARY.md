@@ -21,6 +21,10 @@
 - [第十五章 - 智能指针](./chapter_15.md)
 - [第十六章 - 无畏并发](./chapter_16.md)
 - [第十七章 - 异步编程基础：Async、Await、Futures和Streams](./chapter_17.md)
+- [第十八章 - 面向对象编程特性](./chapter_18.md)
+- [第十九章 - 模式和匹配](./chapter_19.md)
+- [第二十章 - 高级特性](./chapter_20.md)
+- [第二十一章 - 构建一个多线程Web服务器](./chapter_21.md)
 
 # The Rustonomicon
 
