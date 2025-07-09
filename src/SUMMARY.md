@@ -25,9 +25,18 @@
 - [第十九章 - 模式和匹配](./chapter_19.md)
 - [第二十章 - 高级特性](./chapter_20.md)
 - [第二十一章 - 构建一个多线程Web服务器](./chapter_21.md)
+  - [TCP知识记录以及面试相关](./tcp_knowledge.md)
+  - [HTTP知识记录以及面试相关](./http_knowledge.md)
 
 # The Rustonomicon
 
 # The Little Book of Rust Macros
 
 # Rust Atomics and Locks
+
+# 常用crate的学习记录
+
+- [chrono](./lib_chrono.md)
+- [serde](./lib_serde.md)
+- [tokio](./lib_tokio.md)
+- [axum](./lib_axum.md)
