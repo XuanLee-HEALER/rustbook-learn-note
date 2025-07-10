@@ -5,5 +5,13 @@ src = "src"
 title = "rustbook-learn-note"
 description = "我自己的Rustbook学习笔记,rust,programming"
 
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
 [output.html.playground]
 runnable = false
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
