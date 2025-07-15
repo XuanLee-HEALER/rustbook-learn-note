@@ -1,5 +1,9 @@
 # rustbook-learn-note
 
+[电子书主页](https://xuanlee-healer.github.io/rustbook-learn-note/)
+
+![rustacean](./img/rustacean.png)
+
 我正在学习 Rust 编程语言及其开发生态，并将此过程中的心得笔记记录于此。
 
 这些笔记主要（将）包含：
