@@ -32,6 +32,18 @@
 
 # The Little Book of Rust Macros
 
+# Asynchronous Programming in Rust
+
+- [前言](./async-intro.md)
+- [介绍](./async-guide-introduction.md)
+- [并发编程](./async-guide-concurrent-programming.md)
+- [async和await](./async-guide-async-await.md)
+- [更多async/await主题](./async-guide-more-async-await.md)
+- [IO和阻塞的问题](./async-guide-io-blocking.md)
+- [并发地组合futures](./async-guide-composing-futures-concurrently.md)
+- [管道、锁和同步](./async-guide-channel-locking-synchronization.md)
+- [异步编程的工具](./async-guide-tools.md)
+
 # Rust Atomics and Locks
 
 # 常用crate的学习记录
@@ -40,6 +52,7 @@
 - [serde](./lib_serde.md)
 - [tokio](./lib_tokio.md)
 - [axum](./lib_axum.md)
+- [tracing](./lib_tracing.md)
 
 # 安全相关
 
