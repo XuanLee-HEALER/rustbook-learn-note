@@ -54,6 +54,14 @@
 - [axum](./lib_axum.md)
 - [tracing](./lib_tracing.md)
 
+# 分布式架构
+
+- [6824学习笔记](./ds-6824.md)
+
+# web相关
+
+- [rpc](./web-rpc.md)
+
 # 安全相关
 
 - [web security](./web-security.md)
